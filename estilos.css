@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Stencil:ital,wght@0,100..900;1,100..900&display=swap');
+
 /* ESTO QUE ESTA ACA DENTRO ES UN COMENTARIO */
 
 /* regla de estilos
@@ -23,6 +25,7 @@ a{
 
 h1, h2, h3, h4 {
  text-decoration: underline;
+ font-family: "Saira Stencil", Arial, sans-serif;
 }
 
 /* selector de id*/
