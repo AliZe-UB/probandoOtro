@@ -32,7 +32,8 @@ h1, h2, h3, h4 {
 
 /* selector de clase*/
 .destacado{
-    font-weight:bold;
+    font-weight:normal;
+    color: red;
 }
 
 
