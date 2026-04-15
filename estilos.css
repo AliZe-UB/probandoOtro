@@ -10,8 +10,13 @@ selector {
 */
  /*selector de etiqueta*/
 h1 {
-    color: rgb(87, 3, 3);
+    color: rgb(251, 251, 251);
     background-color: black;
+}
+
+a{
+    color: rgb(87, 3, 3);
+    text-decoration: none;
 }
 
 
