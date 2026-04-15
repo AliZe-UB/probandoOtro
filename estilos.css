@@ -26,7 +26,9 @@ h1, h2, h3, h4 {
 }
 
 /* selector de id*/
-
+#archivodecarpeta{
+    font-size: 25px;
+}
 
 
 
