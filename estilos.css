@@ -1,0 +1,18 @@
+/* ESTO QUE ESTA ACA DENTRO ES UN COMENTARIO */
+
+/* regla de estilos
+
+selector {
+    propiedad: valor;
+    propiedad:valor;
+}
+
+*/
+ /*selector de etiqueta*/
+h1 {
+    color: rgb(87, 3, 3);
+    background-color: black;
+}
+
+
+
